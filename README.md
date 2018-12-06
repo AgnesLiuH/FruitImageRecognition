@@ -10,7 +10,7 @@ The FruitImageRecgnition folder is the main application.
 c. In this App, I used some useful tools and refered some websites, and I list them here. Thank you so much!
 
 Reference
-[1]Fruit 360 Dataset. http://www.vicos.si/Downloads/FIDS30
+[1]Fruit Dataset. http://www.vicos.si/Downloads/FIDS30
 [2]coreML. https://developer.apple.com/documentation/coreml
 [3]MLImageClassifierBuilder. https://developer.apple.com/documentation/createml/mlimageclassifierbuilder
 [4]https://developer.apple.com/ios/
